@@ -1,7 +1,8 @@
 # Week 4 Assignment: Bash, Make, Git and GitHub
-#### Date and time make was run: <span style=color:blue>Fri Dec 17 05:28:34 MST 2021</span>
+#### Date and time make was run: <span style=color:blue>Fri Dec 17 05:50:54 MST 2021</span>
 ___
-#### guessinggame.sh is 38 lines long with <span style=color:blue>27 lines of code</span>
+#### guessinggame.sh is 37 lines long with 27 lines of code
+
 ___
 
 The GitHub repository only contains the following three files:
